@@ -137,7 +137,6 @@ function SendMsg() {
                 <Button variant="contained" disabled={buttonClick} style={{ width : '100%' }} onClick={sendMsessage}>
                     { buttonClick ? 'Loading..' : 'Send'}
                 </Button>    
-                <Link to="/">Home</Link>            
                 </div>
             )
            ) 
