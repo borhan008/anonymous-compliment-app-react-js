@@ -2,7 +2,7 @@
 It's a simple reactjs script to get anonymous compliments. You can create your own anonymous  compliments web application such Kubool, Hush by using this script.
 
  
-#Screenshot
+# Screenshot
 
 ![screenshot](https://i.ibb.co/64DCCHY/Screenshot-1.png)
 ![screesnhot](https://image.prntscr.com/image/U9asOMc8Q8CC3iRG3-jYcQ.png)
@@ -13,11 +13,11 @@ It's a simple reactjs script to get anonymous compliments. You can create your o
  - Anonymous message sender city name
  
 
-#Demo
+# Demo
 
 Demo : https://anonymousmessage.web.app/
 
-#Github:
+# Github:
 https://sultanulborhan.github.io/anonymous-compliment-app-react-js/
 
 
