@@ -1,5 +1,5 @@
 # What is AnoMsg ?
-It's a simple reactjs script to get anonymous compliments. You can create your own anonymous  compliments web application such Kubool, Hush by using this script.
+It's a simple reactjs script to get anonymous compliments. You can create your own anonymous  compliments web application such Kubool, Hushapp by using this script.
 
  
 # Screenshot
