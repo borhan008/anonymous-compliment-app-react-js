@@ -12,7 +12,8 @@ It's a simple reactjs script to get anonymous compliments. You can create your o
  - Anonymous message sending & recieving
  - Anonymous message sender city name
  
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=sultanulborhan./anonymous-compliment-app-react-js&left_color=green&rig)
+ 
 # Demo
 
 Demo : https://anonymousmessage.web.app/
